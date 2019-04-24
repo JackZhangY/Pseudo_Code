@@ -1,2 +1,2 @@
 # Pseudo_Code
-Some collections of Pseudo codes for papers
+Collections of Pseudo codes for some papers
